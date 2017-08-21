@@ -498,18 +498,6 @@
   },
   {
     "rs" : [
-      "RATE",
-      "PAR",
-      "PART",
-      "TARE",
-      "PARTE",
-      "ART",
-      "LIEU"
-    ],
-    "word" : "IEARTPLU"
-  },
-  {
-    "rs" : [
       "STAR",
       "ART",
       "RATS",
