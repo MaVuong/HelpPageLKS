@@ -1,5 +1,45 @@
 [
-  
+  {
+    "rs" : [
+      "NEZ",
+      "EN",
+      "NE"
+    ],
+    "word" : "ZNE"
+  },
+{
+    "rs" : [
+      "SA",
+      "PAS",
+      "AS"
+    ],
+    "word" : "SPA"
+  },
+
+{
+    "rs" : [
+      "SE",
+      "DE",
+      "DES"
+    ],
+    "word" : "DSE"
+  },
+{
+    "rs" : [
+      "TU","TUÉ"
+
+    ],
+    "word" : "ÉUT"
+  },
+{
+    "rs" : [
+      "SAC",
+      "AS",
+      "SA",
+      "CAS"
+    ],
+    "word" : "SAC"
+  },
  {
     "rs" : [
       "VER",
